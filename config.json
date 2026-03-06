@@ -1,29 +1,26 @@
 {
   "student": {
-    "name": "Your Name",
-    "bio": "Google Summer of Code Contributor",
-    "avatar": "https://github.com/yourusername.png",
-    "github": "https://github.com/yourusername",
-    "email": "your.email@example.com",
-    "blog": "https://yourblog.dev",
-    "linkedin": "https://linkedin.com/in/yourprofile"
+    "name": "Siva Sai Varshith Mitta",
+    "bio": "2nd year Mathematics & Computing student at IIT Goa contributing to the OWASP BLT NetGuardian autonomous security scanning system and preparing a GSoC 2026 proposal.",
+    "avatar": "https://github.com/Varshith2403315.png",
+    "github": "https://github.com/Varshith2403315",
+    "email": "",
+    "blog": "",
+    "linkedin": "https://www.linkedin.com/in/siva-sai-varshith-mitta-728355328/"
   },
   "project": {
-    "title": "Your GSoC Project Title",
-    "description": "A brief description of your GSoC project and what you're working on. Explain the problem you're solving and the impact of your work.",
-    "organization": "Your Organization",
-    "timeline": "May 2026 - September 2026",
+    "title": "BLT-NetGuardian Architecture Improvements",
+    "description": "Improving the NetGuardian autonomous security scanning architecture, including persistent task deduplication, scanner result normalization, and extensible scanner registration mechanisms.",
+    "organization": "OWASP BLT",
+    "timeline": "GSoC 2026 Preparation",
     "repositories": [
-      "https://github.com/YourOrg/Repository-1",
-      "https://github.com/YourOrg/Repository-2"
+      "https://github.com/OWASP-BLT/BLT-NetGuardian"
     ]
   },
   "slack": {
-    "workspaceUrl": "https://your-org.slack.com/join/shared_invite/xxx",
+    "workspaceUrl": "https://owasp.slack.com",
     "channels": [
-      "general",
-      "gsoc-2024",
-      "your-project-channel"
+      "project-blt"
     ]
   }
 }
